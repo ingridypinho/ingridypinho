@@ -70,8 +70,8 @@ I focus on **Back-end development with Python**, databases, and data analysis wi
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingridypinho&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://streak-stats.demolab.com?user=ingridypinho&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isapinhoo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=Isapinhoo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,13 +82,13 @@ I focus on **Back-end development with Python**, databases, and data analysis wi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isapinho)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridypinho)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridypinho576@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isapinhoo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Isapinhoo576@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ingridypinho&color=A960F7&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Isapinhoo&color=A960F7&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
